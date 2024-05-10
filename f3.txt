@@ -1,1 +1,2 @@
 this is no.3
+try to learn Theory of computation at time of Examination.
